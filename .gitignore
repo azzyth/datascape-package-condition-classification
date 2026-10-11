@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Model checkpoints & heavy artifacts (regenerate via scripts/)
+artifacts/
+ckpt/
+*.pt
+*.pth
+*.npz
+*.npy
+*.onnx
+
+# Dataset (competition data is not redistributed)
+Train_Set/
+Test_Set/
+cache_*/
+*.csv
+!sample_submission.csv
+
+# Local / tooling
+.venv/
+venv/
+.DS_Store
