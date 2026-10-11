@@ -2,8 +2,8 @@
 
 **Macro-F1 classification of e-commerce package condition (`Aman` / `Rusak` / `Lainnya`).**
 
-> **DATASCAPE 2026** — Data Mining Competition · HIMA DS Telkom University · hosted on Kaggle
-> **Public LB: 0.79539** · **OOF CV: 0.8666 ± 0.0117** (ConvNeXt-Base, 5-fold) · **rank ~42/47**
+> **DATASCAPE 2026** — *E-Commerce Package Quality Control* · Data Mining Competition · HIMA DS Telkom University · hosted on Kaggle
+> **Public LB: 0.79539** · **OOF CV: 0.8666 ± 0.0117** (ConvNeXt-Base, 5-fold) · **rank 67/90**
 
 ---
 
